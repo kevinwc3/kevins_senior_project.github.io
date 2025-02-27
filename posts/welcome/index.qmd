@@ -1,6 +1,6 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Kevin Clark"
 date: "2025-01-12"
 categories: [news]
 ---

@@ -2,7 +2,7 @@
 title: "Welcome To My Blog"
 author: "Kevin Clark"
 date: "2025-01-12"
-categories: [news]
+categories: [welcome]
 ---
 
 For this project I will be extracting survey data from qualtrics. This data contains responses and demographics of graduating and graduated students. I need to identify specific groups of students that are less likely to take these surveys. I will be creating a report with visualizations, tables, and statistics for my results.

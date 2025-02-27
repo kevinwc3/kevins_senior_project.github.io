@@ -1,9 +1,11 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
-date: "2025-01-15"
-categories: [news, code, analysis]
-image: "image.jpg"
+title: "One Month Progress"
+author: "Kevin Clark"
+date: "2025-02-19"
+categories: [progress]
+image: "charts.jpg"
 ---
 
-This is a post with executable code.
+I've been able to locate a few groups that are less likely to respond to these graduation surveys. Now that I've found these groups, I'm putting together a simple presentation illustrating how these groups change over time. I've also included a chart with the average response rates for all students for comparison. My next step is to gather demographic data for each of these response groups to compare with the panels demographics.
+
+

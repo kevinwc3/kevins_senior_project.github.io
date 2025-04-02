@@ -1,0 +1,10 @@
+---
+title: "Presentation"
+author: "Kevin Clark"
+date: "2025-03-26"
+categories: [Progress]
+---
+
+I finalized my presentation in a RMD file and presented it as a html file. This presentation brought up many questions about current processes. We learned that the results of our surveys could really only be trusted at a high level because of the lack of responses in many areas. Some results were being posted that couldn't fully be trusted. While this project answered a few questions, it seemed to provide even more.
+
+![](images.png)

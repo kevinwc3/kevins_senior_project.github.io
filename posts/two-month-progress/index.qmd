@@ -2,7 +2,7 @@
 title: "Two Month Progress"
 author: "Kevin Clark"
 date: "2025-03-12"
-categories: [Progress]
+categories: [progress]
 ---
 
 I was able to gather demographic data and create tables with demographic summaries. I then ran a random forest machine learning model to varify some of my findings and potentially find more important variables. My model confirmed my findings and also provided me with a new variable that I hadn't looked into before. Finally I need to create an alluvial plot to track student responses and finalize my presentation.

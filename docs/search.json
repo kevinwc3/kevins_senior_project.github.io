@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "project_blog",
     "section": "",
-    "text": "One Month Progress\n\n\n\n\n\n\nprogress\n\n\n\n\n\n\n\n\n\nFeb 19, 2025\n\n\nKevin Clark\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nwelcome\n\n\n\n\n\n\n\n\n\nJan 12, 2025\n\n\nKevin Clark\n\n\n\n\n\n\nNo matching items"
+    "text": "One Month Progress\n\n\n\n\n\n\nprogress\n\n\n\n\n\n\n\n\n\nFeb 19, 2025\n\n\nKevin Clark\n\n\n\n\n\n\n\n\n\n\n\n\nTwo Month Progress\n\n\n\n\n\n\nProgress\n\n\n\n\n\n\n\n\n\nJan 12, 2025\n\n\nKevin Clark\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nwelcome\n\n\n\n\n\n\n\n\n\nJan 12, 2025\n\n\nKevin Clark\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,12 @@
     "title": "One Month Progress",
     "section": "",
     "text": "I’ve been able to locate a few groups that are less likely to respond to these graduation surveys. Now that I’ve found these groups, I’m putting together a simple presentation illustrating how these groups change over time. I’ve also included a chart with the average response rates for all students for comparison. My next step is to gather demographic data for each of these response groups to compare with the panels demographics."
+  },
+  {
+    "objectID": "posts/two-month-progress/index.html",
+    "href": "posts/two-month-progress/index.html",
+    "title": "Two Month Progress",
+    "section": "",
+    "text": "I was able to gather demographic data and create tables with demographic summaries. I then ran a random forest machine learning model to varify some of my findings and potentially find more important variables. My model confirmed my findings and also provided me with a new variable that I hadn’t looked into before. Finally I need to create an alluvial plot to track student responses and finalize my presentation."
   }
 ]
